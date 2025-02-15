@@ -14,15 +14,20 @@ El formulario de inicio de sesión cuenta con validaciones y no permite el acces
 dependiendo del tipo de usuario, el menú se personalizará mostrarndo las páginas disponibles para cada uno.
 
 ## Tecnologías Empleadas ✔️
-
+![html](https://img.shields.io/badge/HTML-red)
+![css](https://img.shields.io/badge/CSS-blue)
 ![php](https://img.shields.io/badge/php-violet)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-orange)
-![css](https://img.shields.io/badge/CSS-blue
-)
+
 
 ## Instrucciones de uso 📖
 
 Primero debemos activar en el panel de control de XAMPP apache y MySQL, importar el script de la base de datos adjunto, en PhpMyAdmin, copiar la carpeta con los script en el directorio "htdocs" que se encuentra dentro del directorio de XAMPP. Finalmente hacer click en el botón "Admin" en el panel de control y acceder a la carpeta del proyecto.
+
+## Colaboración 🤝
+Roberth Horna
+
+https://github.com/Roberthhhp
 
 ## Imágenes del Proyecto 📸
 
